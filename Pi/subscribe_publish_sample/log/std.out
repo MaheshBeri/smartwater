@@ -1,0 +1,582 @@
+
+AWS IoT SDK Version 1.1.2-
+
+DEBUG:   main L#167 rootCA /home/pi/sdk/sample_apps/subscribe_publish_sample/../../certs/VeriSign-Class 3-Public-Primary-Certification-Authority-G5.pem
+DEBUG:   main L#168 clientCRT /home/pi/sdk/sample_apps/subscribe_publish_sample/../../certs/0e9de65db5-certificate.pem.crt
+DEBUG:   main L#169 clientKey /home/pi/sdk/sample_apps/subscribe_publish_sample/../../certs/0e9de65db5-private.pem
+Connecting...
+Subscribing...
+-->sleep
+Read SerialReceived 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 0Publish messge : 0L
+Received 4 bytes: 0L
+
+Publish result : 
